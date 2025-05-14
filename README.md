@@ -12,14 +12,10 @@ Outside of coding, you’ll probably find me:
 - 🎬 Rewatching Marvel movies (yes, even the long ones) 
 I believe great software comes from curious, well-rounded minds — so I make time to explore, fix, build, and learn wherever I can.
 
-
-## 🚀 Skills
-
-![Skills](https://skills-icons.dev/icons?i=java,kotlin,androidstudio,python,cpp,html,css,js,react,tailwind,firebase,mongodb,azure,mysql,git,github,linux,vscode,intellij)
-
-## 🔗 Reach out to me 👋
+🔗 Reach out to me 
 
 [📧 Email](mailto:razza6@farmingdale.edu)  
 [💼 LinkedIn](https://www.linkedin.com/in/asim-razzaq1)  
 [🌐 Portfolio](https://asimrazzaq01.github.io/portfolio/)
 
+![Skills](https://skills-icons.dev/icons?i=java,kotlin,androidstudio,python,cpp,html,css,js,react,tailwind,firebase,mongodb,azure,mysql,git,github,linux,vscode,intellij)
