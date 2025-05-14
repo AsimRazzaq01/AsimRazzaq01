@@ -19,3 +19,4 @@ I believe great software comes from curious, well-rounded minds — so I make ti
 [🌐 Portfolio](https://asimrazzaq01.github.io/portfolio/)
 
 ![Skills](https://skills-icons.dev/icons?i=java,kotlin,androidstudio,python,cpp,html,css,js,react,tailwind,firebase,mongodb,azure,mysql,git,github,linux,vscode,intellij)
+
