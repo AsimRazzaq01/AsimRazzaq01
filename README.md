@@ -7,9 +7,9 @@ Whether it's designing clean mobile experiences or solving tough backend puzzles
 I like projects that challenge me *and* make life a little easier for me or someone else.
 Outside of coding, you’ll probably find me:
 - 💪 Hitting the gym
-- 🎧 Getting lost in music
+- 🎧 Getting lost in music 
 - 🛠️ Tinkering with cars or my computer
-- 🎬 Rewatching Marvel movies (yes, even the long ones).
+
 I believe great software comes from curious, well-rounded minds — so I make time to explore, fix, build, and learn wherever I can.
 
 🔗 Reach out to me 
