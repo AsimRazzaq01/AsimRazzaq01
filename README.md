@@ -1,5 +1,5 @@
 
-![Asim Razzaq (1) copy](https://github.com/user-attachments/assets/34b1a623-edb8-4c15-9fbe-d8b207ab037c)
+![Asim Razzaq (1) copy 2](https://github.com/user-attachments/assets/ce6d4ff8-fb5f-4f41-9dde-200191da19dd)
 
 # 👋 Hi there, I'm Asim
 
