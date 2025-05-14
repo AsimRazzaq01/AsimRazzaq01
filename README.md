@@ -1,7 +1,6 @@
 # 👋 Hi there, I'm Asim
 
 🎓 I'm a senior Software Engineering student at **Farmingdale State College**  
-👶 Also a proud new dad !  
 💻 I’m all about building apps that feel intuitive , fun and purposeful.
 Whether it's designing clean mobile experiences or solving tough backend puzzles.
 I like projects that challenge me *and* make life a little easier for me or someone else.
