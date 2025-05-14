@@ -1,4 +1,6 @@
-https://github.com/user-attachments/assets/3b414253-18a1-419c-980c-37f48e6af18f
+
+![Asim Razzaq (1) copy](https://github.com/user-attachments/assets/34b1a623-edb8-4c15-9fbe-d8b207ab037c)
+
 # 👋 Hi there, I'm Asim
 
 🎓 I'm a senior Software Engineering student at **Farmingdale State College**  
