@@ -14,6 +14,8 @@ Outside of coding, you’ll probably find me:
 
 I believe great software comes from curious, well-rounded minds — so I make time to explore, fix, build, and learn wherever I can.
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AsimRazzaq01&theme=dark&show_icons=true)
+
 🔗 Reach out to me 
 
 [📧 Email](mailto:razza6@farmingdale.edu)  
