@@ -14,7 +14,7 @@ Outside of coding, you’ll probably find me:
 
 I believe great software comes from curious, well-rounded minds — so I make time to explore, fix, build, and learn wherever I can.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AsimRazzaq01&theme=shadow_blue=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AsimRazzaq01)](https://github.com/anuraghazra/github-readme-stats)
 
 🔗 Reach out to me 
 
